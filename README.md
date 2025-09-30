@@ -2,7 +2,7 @@
 
 This project explores **pneumonia detection from chest X-ray images using deep learning**, with the primary goal of **designing and training a custom CNN from scratch**.
 
-After developing and tuning my own architecture, I later introduced **ResNet18 (transfer learning)** as a **sanity check / performance benchmark** —— not as the main focus, but to validate how well my custom model stacks up against a well-established baseline.
+After developing and tuning my own architecture, I later introduced **ResNet18 (transfer learning)** as a **sanity check / performance benchmark** — not as the main focus, but to validate how well my custom model stacks up against a well-established baseline.
 
 **by Keela Ta**
 
@@ -10,11 +10,11 @@ After developing and tuning my own architecture, I later introduced **ResNet18 (
 
 ## 🚀 Project Overview
 
-- ✅ **Phase 1 —— Build my own CNN from first principles**
+- ✅ **Phase 1 — Build my own CNN from first principles**
   - Designed the full architecture manually
   - Iteratively tuned augmentation, dropout, normalization, and learning rate scheduling
   - Reached **97% validation accuracy / 77% test accuracy**
-- 🔍 **Phase 2 —— Benchmark against ResNet18**
+- 🔍 **Phase 2 — Benchmark against ResNet18**
   - Used only to **verify whether the custom model is under/over-performing**
   - Result: **ResNet hit ~83% test accuracy** — confirming that **my CNN performs competitively**, though with different bias characteristics
 
