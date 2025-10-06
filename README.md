@@ -63,6 +63,12 @@ This was a **self-driven research project**, motivated by an interest in **medic
 
 ---
 
+## 📓 Daily Research Log
+
+For a detailed breakdown of my day-by-day progress, experiments, and reflections, check out my [ChestXrays_CNN Research Journal](https://docs.google.com/document/d/1KOjJcQu5mwb4LxeFfj7xgfQDAmdd5nnIlKT2YzVkEfU/edit?usp=sharing).
+
+---
+
 ## 🛠️ How to Run
 
 ```bash
